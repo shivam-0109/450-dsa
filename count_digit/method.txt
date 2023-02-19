@@ -3,3 +3,6 @@ There are many method but we will solve by :-
 2)Recursive method 
 
 In this we simply divide the number by 10 and count the number of time we permore the divison operation 
+
+
+
