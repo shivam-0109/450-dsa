@@ -1,3 +1,4 @@
+//by shivam kumar singh
 #include <iostream>
 using namespace std;
 int power(int base, int a) {
@@ -14,3 +15,4 @@ int main()
     
     return 0;
 }
+//@shivam-0109
